@@ -57,3 +57,11 @@ body{
     cursive;
     
 }
+
+#fjallaText{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+#greetingHeader{
+    height: 200px;
+}
