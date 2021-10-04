@@ -65,3 +65,11 @@ body{
 #greetingHeader{
     height: 200px;
 }
+
+#blogPostHeight{
+    height: 500px;
+}
+
+#microsoftStackCard{
+    height: 300px;
+}
