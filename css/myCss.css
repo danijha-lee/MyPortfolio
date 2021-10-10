@@ -73,3 +73,7 @@ body{
 #microsoftStackCard{
     height: 300px;
 }
+
+.modal{
+    height: 500px;
+}
